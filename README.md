@@ -1,1 +1,6 @@
-# vk-react-project
+# VK
+## Запуск проекта:
+1) Написать в терминале `npm start`
+
+## Технологии:
+* ReactJS + scss
